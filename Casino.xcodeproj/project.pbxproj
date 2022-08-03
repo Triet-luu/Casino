@@ -53,11 +53,11 @@
 		EC5EAC33289A0EF100A76351 /* Casino */ = {
 			isa = PBXGroup;
 			children = (
+				EC5EAC42289A0F7B00A76351 /* CasinoTable.swift */,
 				EC5EAC34289A0EF100A76351 /* CasinoApp.swift */,
 				EC5EAC36289A0EF100A76351 /* ContentView.swift */,
 				EC5EAC38289A0EF200A76351 /* Assets.xcassets */,
 				EC5EAC3A289A0EF200A76351 /* Preview Content */,
-				EC5EAC42289A0F7B00A76351 /* CasinoTable.swift */,
 			);
 			path = Casino;
 			sourceTree = "<group>";
